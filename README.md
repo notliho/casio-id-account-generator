@@ -16,7 +16,7 @@ python3 main.py
 
 ### Getting the region code
 1. Go to https://auth.casio-intl.com/user/registerForm
-2. Right click + inspect
+2. Right click + inspect element
 3. Search for `targetCountry`, and input the value next to it in config file
 - <img width="379" height="303" alt="image" src="https://github.com/user-attachments/assets/f8ad6a3d-f0c2-4692-9231-5126501c7279" />
 4. From this image, input `SGP`
