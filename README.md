@@ -1,5 +1,5 @@
 # casio-id-account-generator
-
+Mass account creation with catchall email domains with IMAP for auto otp verification
 
 ## Disclaimer
 This project is provided strictly for educational and research purposes only. It is intended to demonstrate programming techniques, web automation, and software development concepts.
