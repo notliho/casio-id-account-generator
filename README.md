@@ -23,6 +23,7 @@ python3 main.py
 
 ## Preview
 <img width="690" height="377" alt="image" src="https://github.com/user-attachments/assets/c8bc48f3-ad7d-49cd-b527-854b0ebead7a" />
+<img width="587" height="67" alt="image" src="https://github.com/user-attachments/assets/1f4a74cf-db5c-4075-9652-1dff3ed46421" />
 
 ## Disclaimer
 This project is provided strictly for educational and research purposes only. It is intended to demonstrate programming techniques, web automation, and software development concepts.
